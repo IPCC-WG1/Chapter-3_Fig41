@@ -1,5 +1,6 @@
 ATTRIBUTION SYNTHESIS
 =====================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6656913.svg)](https://doi.org/10.5281/zenodo.6656913)
 
 Figure number: Figure 3.41
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
